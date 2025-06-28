@@ -59,6 +59,8 @@ git clone https://github.com/your-username/animated-portfolio.git
 cd animated-portfolio
 open index.html  # or double-click to open in a browser
 
+---
+
 ## Preview
 
 ![alt text](<Screenshot (372).png>)
